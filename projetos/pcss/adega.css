@@ -1,0 +1,149 @@
+html
+{
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+}
+body
+{
+    background-color: rgb(61, 59, 59);
+    
+    
+}
+.superior
+{
+    
+    background-color: rgba(124, 25, 25, 0.63);
+    border: 2px solid black;
+    border-radius: 35px;
+    padding: 2rem;
+    
+    
+}
+
+header img  
+{
+    width: 800px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 25px;
+    max-width: 80%;
+    
+}    
+.img2
+{
+    width: 300px;
+    margin-right: 5rem;
+    height: auto;
+    max-width: 100%;
+    
+}
+.img3
+{
+    width: 250px;
+    margin-left: 5rem;
+    height: auto;
+    max-width: 100%;
+    
+    
+}
+.mapsadega
+{
+    border: 2px solid black;
+}
+h1 
+{
+    color: black;
+    background-color: beige;
+   font-family: verdana;
+   font-size: 25px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border: 2px solid black;
+   border-radius: 35px ;
+   
+}
+p
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+a 
+{
+    font-size: 20px;
+    font-family: verdana;
+    color: rgb(10, 10, 10);
+    background-color: rgb(126, 126, 46);
+    border: solid 3px;
+    border-radius: 35px;
+    padding: 7px;
+    font-weight: bold
+      
+}
+.menu1
+{
+    margin: 2rem;
+}
+main img
+{
+    width: 400px;
+    height: auto;
+    max-width: 100%;
+    border: 2px solid black;
+    border-radius: 25px;
+    
+}
+
+aside img
+{
+    width: 300px;
+    height: auto;
+    max-width: 100%;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.container1 a
+{
+    margin: 2rem;
+    
+}
+
+.container2 h2
+{
+    
+
+        font-family: verdana;
+        font-size: 35px;
+        color:black;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: 2px solid black;
+        border-radius: 35px ;
+        background-color: beige;
+    
+}
+.container3 h3 
+{
+    font-family: verdana;
+    color: black;
+    background-color: beige;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 35px;
+}
+
+{
+    
+}
+footer
+{
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    padding: 5px;
+    margin: 1rem;
+}

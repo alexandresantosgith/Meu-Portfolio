@@ -1,0 +1,52 @@
+html
+{
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+    background-color: beige;
+    
+}
+h1
+{
+    font-family: verdana;
+    font-size: 25px;
+}
+h2
+{
+    font-family: arial;
+
+}
+.container1
+{
+    font-family: arial;
+    
+}
+a
+{
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    font-family: verdana;
+    border: 2px solid rgb(114, 39, 39);
+    border-radius: 35px;
+    padding: 5px;
+}
+.container2
+{
+    font-family: arial;
+
+}
+.container2 span
+{
+    font-weight: bold;
+    font-family: verdana;
+    
+}
+footer
+{
+    padding: 3px;
+    margin: 2rem;
+    background-color: black;
+    color: #fff;
+    font-family: arial;
+    font-weight: bold;
+}

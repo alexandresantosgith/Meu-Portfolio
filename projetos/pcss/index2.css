@@ -1,0 +1,21 @@
+html
+{
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+}
+body
+{
+    background-color: white;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    padding: 5px;
+    margin: 1rem;
+}
+.content
+{
+    
+}

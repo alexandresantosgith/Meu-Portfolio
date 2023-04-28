@@ -1,0 +1,95 @@
+html{
+    
+    background: rgb(187, 187, 187);
+    margin: 2px 2px 2px 2px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+    font-family: verdana;
+    
+}
+.teste1
+{
+    height: 250px;
+    width: 250px;
+    padding: 3px;
+    border-radius: 55px;
+
+}
+.h1
+{
+    border: 1px solid black;
+    border-radius: 55px;
+    margin: 20px;
+}
+.button
+{
+    border: 1px solid black;
+    border-radius: 55px;
+    margin: 20px;
+}
+.beb12
+{
+    height: 400px;
+    width: 250px;
+    padding: 3px;
+    border-radius: 55px;
+}
+.bebi
+{
+    height: 400px;
+    width: 250px;
+    padding: 3px;
+    border-radius: 55px;
+}
+
+.bebi1
+{
+    height: 400px;
+    width: 250px;
+    padding: 3px;
+    border-radius: 55px;
+}
+.jack
+{
+    height: 400px;
+    width: 250px;
+    padding: 3px;
+    border-radius: 55px;
+}
+.adega 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large 25px;
+}
+.contato
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.maps
+{
+    height: 400px;
+    width: 800px;
+    padding: 3px;
+    border-radius: 55px;
+}
+.tele
+{
+    background: rgb(0, 0, 0) ;
+    color: white;
+    bottom: 25px;
+    margin: 2rem;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 55px;
+}
+footer
+{
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 55px;
+}
